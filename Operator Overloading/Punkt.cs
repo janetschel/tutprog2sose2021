@@ -52,8 +52,8 @@ namespace ConsoleApp1
 
         public static bool operator >(Punkt a, Punkt b)
         {
-            // Trick: a > b, falls a nicht < b. Hier greifen wir auf den bereits überladenen Operator zu von Zeile 45
-            return !(a < b);
+            // Trick: a > b, falls a nicht < b und a != b. Hier greifen wir auf den bereits überladenen Operator zu von Zeile 45
+            return !(a < b) && a != b;
         }
         
         // uvm.
