@@ -99,7 +99,7 @@ namespace ConsoleApp2
             foreach (var student in EingeschriebeneStudenten)
                 sum += student.Notendurchschnitt;
 
-            return sum / AnzahlStudenten;
+            return Math.Round(sum / AnzahlStudenten, 2);
         }
         
         public double medianNotendurchschnitt()
@@ -114,7 +114,7 @@ namespace ConsoleApp2
 
             // sonst: ungerade Anzahl an Studenten
             var sum = sortedArray[k] + sortedArray[k + 1];
-            return sum / 2;
+            return Math.Round(sum / 2, 2);
         }
 
         private double[] sortArray()
