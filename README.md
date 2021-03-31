@@ -5,12 +5,12 @@
 Hi, dieses Repo dient als Dateisammlung aller besprochenen Aufgaben vom Programmieren II Tutorium im Sommersemester 2021 an der TH Nuernberg.
 
 Alle Dateien/Ordner mit den Strukturen findet ihr auch genauso 1:1 in unserem Moodle Kurs.  
-Dieses Repo dient somit nur zur Alternative, falls einige Leuter lieber mit GItHub arbeiten sollten (genauso wie ich auch).
+Dieses Repo dient somit nur zur Alternative, falls einige Leute lieber mit GitHub arbeiten sollten (genauso wie ich auch).
 
 Das ist zwar so etwas redundant gehalten, allerdings sollten dabei keine Inkonsistenzen auftreten... ich gebe mir auf jeden Fall Mühe, damit das nicht passiert :)
 
 Falls es sonst noch Fragen gibt, gerne mir eine Email unter [mailto:etschelja80177@th-nuernberg.de](mailto:etschelja80177@th-nuernberg) schicken oder den Discord-Server beitreten und mir da schreiben.  
-Der Discord-Bot wird zwar zur Zeit nirgends gehostet, allerdings solltet ihr mitder Gruppe @everyone auch alle wichtigen Kanäle sehen.
+Der Discord-Bot wird zwar zur Zeit nirgends gehostet, allerdings solltet ihr mit der Gruppe @everyone auch alle wichtigen Kanäle sehen.
 
 Gerne könnt ihr auch Issues öffnen oder PRs stellen, falls euch etwas falsches in den Unterlagen auffallen sollte (sollte zwar nicht dazu kommen, aber man weiß ja nie)
 
