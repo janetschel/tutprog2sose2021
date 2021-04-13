@@ -16,7 +16,7 @@ namespace WiederholungKlassen
             set
             {
                 var matnr = Convert.ToInt32(value);
-                if (matnr < 1 || matnr > 9999999)
+                if (matnr < 1 || matnr > 9999999 || value.Length != 7)
                     throw new Exception("Matrikelnummer muss zwischen 0000001 und 9999999 sein!");
 
                 _matrikelNummer = value;
