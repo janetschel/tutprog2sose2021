@@ -1,0 +1,3 @@
+https://gist.github.com/janetschel/bde4baaa3ef8831abd1177683b3e14d6
+
+Siehe diesen Link fuer eine weitere Implementierung einer Simply linked list.
