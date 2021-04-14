@@ -220,7 +220,6 @@ k) Was sind die Limitationen und Probleme einer einfachen verketteten Liste?
 - Vorgänger nicht bekannt -> etwas schwerer beim Löschen und Einfügen von Elementen
 - Indexing nicht so einfach wie bei Arrays
 - braucht vergleichweise mehr Speicherplatz als Arrays
-- 
 </details>
 <br>
 l) Wie ist eine Liste zu erweitern, damit Daten in „richtiger“ Reihenfolge abgespeichert werden?
