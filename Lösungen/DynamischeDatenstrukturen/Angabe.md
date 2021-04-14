@@ -69,6 +69,8 @@ Adresse des Empfängers: 1
 
 Starte Simulation...
 Gerät 4 sendet Datenpaket („Testpaket“, 4, 1)
-Gerät 3 leitet Datenpaket („Testpaket“, 4, 1) weiter Gerät 1 empfängt Datenpaket („Testpaket“, 4, 1)
+Gerät 3 leitet Datenpaket („Testpaket“, 4, 1) weiter 
+Gerät 1 empfängt Datenpaket („Testpaket“, 4, 1)
+
 Simulation beendet. Bitte eine Taste drücken...
 ```
