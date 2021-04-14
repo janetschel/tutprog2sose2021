@@ -8,6 +8,7 @@ Die **Übungsfragen** findet ihr nachfolgend noch beantwortet.
 Falls ihr dort noch mehr Input habt und euch auf GitHub befindet, gerne einen PR erstellen ;)
 
 ### Übungsfragen
+<br>
 a) Wieso werden Arrays auch als statische Datenstrukturen bezeichnet?  
 <details>
 <summary>Antwort</summary>
