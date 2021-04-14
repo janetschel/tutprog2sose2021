@@ -87,6 +87,7 @@ Nachfolger-Referenzen (bzw. bei doppelt verketteten Listen noch Vorgänger-Refer
 f) Wie findet man den „Anfang“ einer verketteten Liste
 <details>
 <summary>Antwort</summary>
+    
 Der Anfang einer einfach verketteten Liste ist in der Liste als `head`-Referenz gespeichert.
 
 ```csharp
@@ -191,6 +192,7 @@ end
 i) Was bedeutet Listentraversierung und wie kann dies implementiert werden?
 <details>
 <summary>Antwort</summary>
+    
 Listentraversierung bedeutet das Durchlaufen einer Liste. Dies kann implementiert werden, indem die Liste durchgegangen wird, solange der Nachfolger nicht `null` ist.
 </details>
 <br>
@@ -214,13 +216,16 @@ end
 k) Was sind die Limitationen und Probleme einer einfachen verketteten Liste?
 <details>
 <summary>Antwort</summary>
+    
 - Vorgänger nicht bekannt -> etwas schwerer beim Löschen und Einfügen von Elementen
 - Indexing nicht so einfach wie bei Arrays
 - braucht vergleichweise mehr Speicherplatz als Arrays
+- 
 </details>
 <br>
 l) Wie ist eine Liste zu erweitern, damit Daten in „richtiger“ Reihenfolge abgespeichert werden?
 <details>
 <summary>Antwort</summary>
-Siehe Antwort g) zum Thema **Einfügen**.
+    
+Siehe Antwort g) zum Thema **Einfügen**
 </details>
