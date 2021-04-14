@@ -20,7 +20,7 @@ int[] a = new int[3]; // <- diese Länge ist fest, kann nicht mehr geändert wer
 
 Dem gegenüber stehen sog **dynamische** Datenstrukturen, welche eine variable Länge haben.
 </details>
-
+<br>
 b) Welche Datenstruktur-Operationen können Arrays gut, und welche nicht?
 <details>
 <summary>Antwort</summary>
