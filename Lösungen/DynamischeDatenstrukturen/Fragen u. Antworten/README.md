@@ -1,7 +1,7 @@
 # Programmieren II Arbeitsblatt/Übung 2
 ## Dynamische Datenstrukturen
 
-Die Übungsaufgabe findet sich hier implementiert.  
+Die Übungsaufgabe findet sich im vorherigen Ordner implementiert.  
 Für eventuelle Fragen gerne auch mich zukommen!
 
 Die **Übungsfragen** findet ihr nachfolgend noch beantwortet.  
