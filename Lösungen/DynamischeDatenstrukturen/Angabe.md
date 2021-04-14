@@ -28,10 +28,14 @@ Entwickeln Sie dann eine textbasierte Benutzeroberfläche, mit der Sie die Verwa
 ```
 Status des Ringpuffer-Netzwerks:
 Leer
+
 Menü:
-(1) Neue Geräte hinzufügen (2) Gerät entfernen
-(3) Datenpaket versenden (4) Programm beenden
+(1) Neue Geräte hinzufügen 
+(2) Gerät entfernen
+(3) Datenpaket versenden 
+(4) Programm beenden
 >1
+
 Neue Geräte hinzufügen...
 Anzahl neuer Geräte > 3
 ```
