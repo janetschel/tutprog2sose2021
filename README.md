@@ -25,6 +25,8 @@ Die Ordner sind je nach Themengebiet benannt.
 Andere Sachen, wie (Übungs-)Aufgaben und Lösungen findet ihr im Hauptverzeichnis. Auch hier sind die Ordner nach Themengebiet benannt, eine Unterteilung nach Wochen in der README findet (offensichtlich) nicht statt.  
 Diese Übungen sind nach Klausuren nachempfunden und helfen euch SEHR bei der Prüfungsvorbereitung (irgendwann dann im Sommer).
 
+Lösungen zu Übungsaufgaben von Profs findet ihr im Ordner Lösungen!
+
 ## Fehler/Unstimmigkeiten in meinen Aufgaben
 
 Wie eingangs bereits erwähnt, könnt ihr gerne PRs stellen, falls euch was auffällt. 
