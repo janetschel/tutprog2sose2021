@@ -74,3 +74,9 @@ Gerät 1 empfängt Datenpaket („Testpaket“, 4, 1)
 
 Simulation beendet. Bitte eine Taste drücken...
 ```
+Hiernach ist:
+| Gerät   | Upload  | Download  |
+| :-----: |:-------:| :--------:|
+| 4       |    1    |      0    |
+| 3       |    0    |      0    |
+| 1       |    0    |      1    |
