@@ -1,2 +1,3 @@
-# Loesungen
-Hier findet ihr Loesungen zu einigen Uebungsaufgaben von Profs.
+# Lösungen
+
+Hier findet ihr einige (Muster-)Lösungen zu ausgewählten Übungsaufgaben von Profs.
