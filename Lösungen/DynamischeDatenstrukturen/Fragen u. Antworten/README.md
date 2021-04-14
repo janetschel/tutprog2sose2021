@@ -206,7 +206,7 @@ Knoten:
         wenn this.daten = daten:
             ausgabe gefunden
         sonst:
-            nachfolger.suche
+            nachfolger.suche(daten)
         end
     end
 end
