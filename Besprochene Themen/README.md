@@ -7,7 +7,7 @@ Woche 4 (27.04.21): Generische (Generics) doppelt verkettete Listen (Abschluss d
 Woche 5 (04.05.21): Vererbung (Inheritance) und Unterschied zu Interfaces
 Woche 6 (11.05.21): IComparable und IEnumerable Implementierung
 Woche 7 (18.05.21): Implementation IEnumerable, multiple Generics und Einschränkungen von Generics auf Klassen
-
+Woche 8 (08.06.21): Delegates, anonyme Delegates (mit Linq (Stream API in Java), Lambdas) und Subcriber + Events zum verhindern des Recompilens
 <hr />
 
 ## Interessante Videos zu...
