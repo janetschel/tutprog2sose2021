@@ -15,3 +15,8 @@ Woche 8 (08.06.21): Delegates, anonyme Delegates (mit Linq (Stream API in Java),
 **Dynamischen Datenstrukturen (Array(-lists) und LinkedLists)**
 - [Linked Lists vs Arrays, When They Suck, and When They Don't (Data Structures and Optimization)](https://www.youtube.com/watch?v=34ky600VTN0) <- sehr zu empfehlen!
 - [Array List vs Linked List | Which one should you use??](https://www.youtube.com/watch?v=M_0q6rGUsNc)
+
+
+**Delegates und Events**
+- [C# Events and Delegates Made Simple | Mosh](https://www.youtube.com/watch?v=jQgwEsJISy0)
+
